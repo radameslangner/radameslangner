@@ -8,13 +8,13 @@ Focado em react e next JS.
 
 - 😄 Pronomes: Ele/dele.
 - 💬 Fale comigo: Javascript, HTML, POO, arquitetura, padrões de projetos...
-- 🌱 Atualmente Aprendendo:
+- 🌟 Atualmente estudando:
   1. React
   2. next JS
   3. Arquitetura Hexagonal ('É uma arquitetura onde o núcleo da aplicação é composto de objetos de domínio, casos de uso que operam neles e portas de entrada e saída fornecem uma interface para o mundo exterior')
 - ⚡  Fato divertido: Procurando casa no litoral gaúcho!
 
-## 🌟 Tecnologias em desenvolvimento
+## ❗❗❗ Tecnologias em desenvolvimento
 ![HTNL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
